@@ -1,1 +1,1 @@
-# Suse-Background
+# RedHat Email Banner 
